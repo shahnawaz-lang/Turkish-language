@@ -36,7 +36,7 @@ armut(Nom) => armudu(obj)
 
 The turkish g may not appear at the end of the word or before another consonant. Similiarly it follows the same rules/pattern since it is also a voiced stop: 
 
-1) At the end of a word after a consonant or after a vowel, **g** becomes **k**
+- At the end of a word after a consonant or after a vowel, **g** becomes **k**
 
 For example: 
 renk(color) => /reng/ 
