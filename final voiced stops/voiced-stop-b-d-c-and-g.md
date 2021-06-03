@@ -6,7 +6,6 @@ Turkish stems(words/morphemes that can stand alone) ending with the consontants 
 
 1) When the word stands alone without a *suffix*, or 
 2) when a *suffix* beginning with a consonant is added, the voiced consonants become: 
-
 	**d** => **t** 
 	**b** => **p**
 	**c** => **ç**
