@@ -50,7 +50,7 @@ büyük + -üm => büyüğüm
 
 If a word is more than one syllable that is found with the *final k* almost ends basically with the /g/ 
 
-### Word about prounication 
+### A word about prounication 
 Sometimes these words are actually pronounced with a final voiced stop. For example in ad (name), öd (bile), uc (end), and ab (water). However, some individual speakers may pronounce them with the corresponding voiceless stop in all cases. 
 
 
