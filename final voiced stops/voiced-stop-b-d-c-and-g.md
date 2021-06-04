@@ -9,6 +9,8 @@ Turkish stems(words/morphemes that can stand alone) ending with the consontants 
 	**d** => **t** 
 	**b** => **p**
 	**c** => **ç**
+	
+	
 For example: 
 kasap (butcher) => /kasab/ (as a stand alone word with no suffix)
 	kasaplar (butchers) => b becomes p before l
@@ -34,7 +36,7 @@ armut(Nom) => armudu(obj)
 
 The turkish g may not appear at the end of the word or before another consonant. Similiarly it follows the same rules/pattern since it is also a voiced stop: 
 
-1) At the end of a word after a consonant or after a vowel, **g** becomes **k**
+- At the end of a word after a consonant or after a vowel, **g** becomes **k**
 
 For example: 
 renk(color) => /reng/ 
@@ -48,7 +50,7 @@ büyük + -üm => büyüğüm
 
 If a word is more than one syllable that is found with the *final k* almost ends basically with the /g/ 
 
-### Word about prounication 
+### A word about prounication 
 Sometimes these words are actually pronounced with a final voiced stop. For example in ad (name), öd (bile), uc (end), and ab (water). However, some individual speakers may pronounce them with the corresponding voiceless stop in all cases. 
 
 
