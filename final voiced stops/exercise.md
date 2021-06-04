@@ -40,15 +40,15 @@ küçük bir çocuktur, fakat değeri büyük bir kız
 
 We are .... 
 
-1) bad => Biz kütüyüz
-2) big => Biz büyüküz 
-3) children => Biz çocuklar
-4) clerks => Biz kâtibiz
-5) hardworking => Biz çalışkaniz
-6) men => Biz adamlar 
-7) small => Biz küçüktür 
-8) Turks => Biz Türktür 
-9) young => gençtür
+1) bad => (Biz) kütüyüz
+2) big => (Biz büyüküz 
+3) children => (Biz) çocuklar
+4) clerks => (Biz) kâtibiz
+5) hardworking => (Biz) çalışkaniz
+6) men => (Biz) adamlar 
+7) small => (Biz) küçüktür 
+8) Turks => (Biz) Türktür 
+9) young => (Biz) gençtür
 
 ### Give the objective case form of the following nouns and adjectives
 
