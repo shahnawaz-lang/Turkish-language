@@ -1,38 +1,38 @@
 ### Translate to english 
 
 1) İyi bir kâtipsiniz
-He is a good clerk 
+= He is a good clerk 
 2) Hasta, adamdır
-Sick, man is 
+= Sick, man is 
 3) Orhan kâtip değil, kasaptır
-Orhan is a clerk, not a butcher 
+= Orhan is a clerk, not a butcher 
 4) Atlar yorgun, fakat köpekler yorgun değil'
-The horses are tired, but the dogs are not tired 
+= The horses are tired, but the dogs are not tired 
 5) Sen çalışkan değil, tembelsin
-You are lazy, not hardworking 
+= You are lazy, not hardworking 
 
 ### A) Translate into Turkish
 
 1) Old trees are large
-Eski ağaçlar büyüktür 
+= Eski ağaçlar büyüktür 
 2) Mehmet is a young Turk
-Mehmet genç bir türktür 
+= Mehmet genç bir türktür 
 3) The young person is sick.
-genç kişi hastadır 
+= genç kişi hastadır 
 4) The large horse is not hungry
-Büyük at aç değil 
+= Büyük at aç değil 
 5) The old dog is always hungry
-yaşli köpek daima(her zaman) açtır 
+= yaşli köpek daima(her zaman) açtır 
 6) The little ones are not tired.
-küçükler yorgun değil
+= küçükler yorgun değil
 7) Orhan is a clerk, not a director
-Orhan kâtipdir, müdür değil
+= Orhan kâtipdir, müdür değil
 8) You (sg) are a man, not a child.
-Sen bir adamsin, coçuk değil 
+= Sen bir adamsin, coçuk değil 
 9) The men, not the girls, are lazy
-kizler değil, adamlar yorgun 
+= kizler değil, adamlar yorgun 
 10) He is a small child, but she is a big girl 
-küçük bir çocuktur, fakat değeri büyük bir kız
+= küçük bir çocuktur, fakat değeri büyük bir kız
 
 
 
