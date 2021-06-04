@@ -11,7 +11,7 @@ The horses are tired, but the dogs are not tired
 5) Sen çalışkan değil, tembelsin
 You are lazy, not hardworking 
 
-###A) Translate into Turkish
+### A) Translate into Turkish
 
 1) Old trees are large
 Eski ağaçlar büyüktür 
@@ -36,7 +36,7 @@ küçük bir çocuktur, fakat değeri büyük bir kız
 
 
 
-###B) Translate into Turkish:
+### B) Translate into Turkish:
 
 We are .... 
 
