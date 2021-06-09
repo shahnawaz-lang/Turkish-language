@@ -7,7 +7,7 @@ stem|suffix
 ------|------
 gör- 'see' | görmek - 'to see', görme - 'not see', görmemek - 'not to see'
 
-gitmedim - 'I didn't go' 
+gitmedim - 'I didn't go' </br>
 okumadınız - 'you (pl) didn't read' 
 Bugün çok çalışmadım - 'Today I didn't work very much' 
 Kitabı okuduk, ama begenmedik - 'We read the book, but we didn't like it" 
