@@ -43,8 +43,9 @@ Among the personal endings, only the third person plural -lEr precedes mI:
 
 İyiler mi? - 'Are they well?'
 
-If de
+If değil is present, -mI follows it since it also a part of predicate 
 
+ka'Aren't you a clerk'
 
 
 
