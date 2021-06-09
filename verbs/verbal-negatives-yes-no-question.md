@@ -29,6 +29,21 @@ Gazete geldi mi? - Did the newspaper come? <br/>
 Meyva aldık mı? - Did we buy fruit?
 
 
+If the predicate is nonverbal, **mI** follows the predicate but precedes the personal endings. 
+
+Yorgun musunuz? - 'Are you tired' 
+hasta mıyım? - 'Am I sick?'
+Aç mıyız? -Are we hungry 
+kasap mısın? -Are you a butcher 
+-Is Istanbul beautiful? 
+-Is Istanbul a beautiful place? 
+
+
+
+
+
+
+
 
 
 
