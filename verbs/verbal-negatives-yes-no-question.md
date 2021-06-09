@@ -4,12 +4,8 @@
 The verbal negative for verb stem is made with the suffix **-mE**, which follows the verb stem and precedes the tense. 
 
 stem|suffix
-<<<<<<< HEAD
 -------|-------
 gör- 'see' | görmek - 'to see'; görme - 'not see'; görmemek - 'not to see'
-=======
-------|------
-gör- 'see' | görmek - 'to see', görme - 'not see', görmemek - 'not to see'
 
 gitmedim - 'I didn't go' </br>
 okumadınız - 'you (pl) didn't read' </br>
@@ -58,7 +54,26 @@ The particle **mI** may be used not only at the end of the sentence
 but also within the sentence. It may be placed after a noun, noun phrase, 
 or adverb inside the sentence. 
 
- 
+Mehmet mi geldi? -Did Mehmet come? <br/>
+Elma mi aldınız?-Did you buy apples? <br/>
+Orhan çok mu çalışkan? -Is orhan very industrious? <br/>
+Şimdi mi geldiniz? -Did you come just now? <br/>
+katibı sen mi aldın? -Did you buy the book? <br/>
+Tembel misiniz, değil misiniz? Are you lazy or not? 
+
+
+The expression değil mi means "is it not so?". It is placed at the end of the 
+sentence and has no grammatical connection with it. 
+
+Istanbul güzel, değil mi?  - 'Istanbul is beautiful, isn't it?' <br/>
+Kitabı okumadıniz, degıl mi? - 'You did not read the book, did you?' <br/>
+Yemek aldınız, değil mi? - 'You bought food, didn't you?'
+
+Distinguish: <br/>
+Halil tembel değil mi? - 'Isn't Halil lazy?' <br/>
+Halil tembel, değil mi? - 'Halil is lazy, isn't he?' <br/>
+Halil tembel mi, değil mi? - 'is Halil lazy or not?'
+
 
 
 
