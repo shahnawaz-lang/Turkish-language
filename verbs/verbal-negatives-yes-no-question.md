@@ -31,12 +31,12 @@ Meyva aldık mı? - Did we buy fruit?
 
 If the predicate is nonverbal, **mI** follows the predicate but precedes the personal endings. 
 
-Yorgun musunuz? - 'Are you tired' 
-hasta mıyım? - 'Am I sick?'
-Aç mıyız? -Are we hungry 
-kasap mısın? -Are you a butcher 
--Is Istanbul beautiful? 
--Is Istanbul a beautiful place? 
+Yorgun musunuz? - 'Are you tired' <br/>
+hasta mıyım? - 'Am I sick?' <br/>
+Aç mıyız? -Are we hungry <br/>
+kasap mısın? -Are you a butcher <br/> 
+-Is Istanbul beautiful? <br/>
+-Is Istanbul a beautiful place? <br/>
 
 
 
