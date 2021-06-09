@@ -18,7 +18,7 @@ Kitabı okuduk, ama begenmedik - 'We read the book, but we didn't like it"
 The particle **mI** is used for yes or no questions: 
 
 1) It follows the word it applies to usually in predicates,
-2) it changes according to the vowel harmony rules in turkish
+2) it changes according to the vowel harmony rules, and
 3) the accent falls on the preceding syllable 
 
 Gitti mi? - 'Did he go?'<br/>
@@ -33,17 +33,17 @@ If the predicate is nonverbal, **mI** follows the predicate but precedes the per
 
 Yorgun musunuz? - 'Are you tired' <br/>
 hasta mıyım? - 'Am I sick?' <br/>
-Aç mıyız? -Are we hungry <br/>
-kasap mısın? -Are you a butcher <br/> 
--Is Istanbul beautiful? <br/>
--Is Istanbul a beautiful place? <br/>
+Aç mıyız? - 'Are we hungry' <br/>
+kasap mısın? - 'Are you a butcher' <br/> 
+Istanbul güzel mi?(or midir) – 'Is Istanbul beautiful?' <br/>
+Istanbul güzel bir yer mi?-Is Istanbul a beautiful place? <br/>
 
 
+Among the personal endings, only the third person plural -lEr precedes mI: 
 
+İyiler mi? - 'Are they well?'
 
-
-
-
+If de
 
 
 
