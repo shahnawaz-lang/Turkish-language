@@ -1,7 +1,6 @@
 ### Translate to english 
 
 1) İyi bir kâtipsiniz
-<<<<<<< HEAD
 
 He is a good clerk 
 
