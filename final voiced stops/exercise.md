@@ -135,7 +135,6 @@ We are ....
 7) small => (Biz) küçüktür 
 8) Turks => (Biz) Türktür 
 9) young => (Biz) gençtür
->>>>>>> a1755ad481d22dbb10a599740e84e7bc2207588c
 
 ### Give the objective case form of the following nouns and adjectives
 
